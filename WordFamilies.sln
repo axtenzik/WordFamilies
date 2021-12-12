@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFamilies", "WordFamilies\WordFamilies.csproj", "{2AEEE2C2-1295-4F90-95F2-536D5B0C9C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AEEE2C2-1295-4F90-95F2-536D5B0C9C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEEE2C2-1295-4F90-95F2-536D5B0C9C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEEE2C2-1295-4F90-95F2-536D5B0C9C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEEE2C2-1295-4F90-95F2-536D5B0C9C81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAAE3CAE-1176-408D-B5A9-BE5AF4AAB278}
+	EndGlobalSection
+EndGlobal
